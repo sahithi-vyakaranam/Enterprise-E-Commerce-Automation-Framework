@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d308bf8-fc22-48a7-8705-83a9dac92f4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/InventoryPipelineTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000007227499803" />
+      <entry key="S2" value="1.0291572809855252" />
+      <entry key="S5" value="1.2431637368542545" />
+      <entry key="S10" value="1.4931186248674893" />
+      <entry key="S30" value="1.8280107634386382" />
+      <entry key="S60" value="2.3360205342333167" />
+      <entry key="M2" value="3.609215662797314" />
+      <entry key="M5" value="6.043373377932866" />
+      <entry key="M10" value="7.6357509644591275" />
+      <entry key="M15" value="8.320051954338965" />
+      <entry key="M30" value="9.102632439413615" />
+      <entry key="H1" value="9.535823417890242" />
+      <entry key="H2" value="9.763884606514788" />
+      <entry key="H4" value="9.880915565893828" />
+      <entry key="D1" value="9.980008262785633" />
+      <entry key="W1" value="9.997140480105026" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.1459294282743752E-117" />
+      <entry key="S2" value="7.342087669528395E-30" />
+      <entry key="S5" value="3.2073538913922506E-12" />
+      <entry key="S10" value="2.5107471169486873E-6" />
+      <entry key="S30" value="0.02153274053886888" />
+      <entry key="S60" value="0.20747098988690504" />
+      <entry key="M2" value="0.6441201088521823" />
+      <entry key="M5" value="1.2711543869254167" />
+      <entry key="M10" value="1.5944579666789804" />
+      <entry key="M15" value="1.7195645235019088" />
+      <entry key="M30" value="1.854488381788115" />
+      <entry key="H1" value="1.9258702589532577" />
+      <entry key="H2" value="1.9625851282663167" />
+      <entry key="H4" value="1.981204235521643" />
+      <entry key="D1" value="1.9968550337819702" />
+      <entry key="W1" value="1.9995504160074828" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9012504626108302" />
+      <entry key="MS500" value="0.9794209976557039" />
+      <entry key="S2" value="1.0237406720543174" />
+      <entry key="S5" value="1.2403123686010944" />
+      <entry key="S10" value="1.4912957396949629" />
+      <entry key="S30" value="1.8462096339851624" />
+      <entry key="S60" value="2.529795868145775" />
+      <entry key="M2" value="4.231664969899256" />
+      <entry key="M5" value="7.297007970622139" />
+      <entry key="M10" value="9.219105865030958" />
+      <entry key="M15" value="10.031602936610387" />
+      <entry key="M30" value="10.952782140024237" />
+      <entry key="H1" value="11.459436083112875" />
+      <entry key="H2" value="11.725318180545274" />
+      <entry key="H4" value="11.861538245925807" />
+      <entry key="D1" value="11.976765560436478" />
+      <entry key="W1" value="11.996676913865354" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LZ4yFRsDpP8fYxCyW4wLhfkfUt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.Enterprise-E-Commerce-Automation-Framework [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "TestNG.InventoryPipelineTest (1).executor": "Run",
+    "TestNG.InventoryPipelineTest.executor": "Run",
+    "TestNG.inventoryPipelineTest.validateinventoryAllocationPayload.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/SAHITHI/Enterprise-E-Commerce-Automation-Framework/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.inventoryPipelineTest.validateinventoryAllocationPayload">
+    <configuration name="InventoryPipelineTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Enterprise-E-Commerce-Automation-Framework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.InventoryPipelineTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inventoryPipelineTest.validateinventoryAllocationPayload" type="TestNG" nameIsGenerated="true">
+      <module name="Enterprise-E-Commerce-Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.inventoryPipelineTest" />
+      <option name="METHOD_NAME" value="validateinventoryAllocationPayload" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.inventoryPipelineTest.validateinventoryAllocationPayload" />
+      <item itemvalue="TestNG.InventoryPipelineTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.InventoryPipelineTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d308bf8-fc22-48a7-8705-83a9dac92f4d" name="Changes" comment="" />
+      <created>1793648514479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793648514479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
